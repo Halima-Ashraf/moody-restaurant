@@ -1,3 +1,17 @@
+*{margin:0px; padding: 0px;}
+body{margin:0px; padding:0px;}
+
+
+.moody{background-image: url('../img/bc-1.png');height: 900px; background-size: cover;padding: 0px;}
+.moody h2{color: white; margin-top: 13%;}
+.moody h1{font-size: 95px; color: white; margin-top: 90%; margin-left: 10%;}
+.moody p{font-size: 75px; color: white;margin-top: -8%;  margin-left: 10%;}
+
+.moody ul{margin-top: 6%;}
+.moody ul li{ list-style-type: none; display: inline-block; font-size: 30px; padding-left: 7%;  }
+.moody ul li a{text-decoration: none; color: white;}
+.moody .read{margin-top: 60%;background-color: #ffba00;  width: 30%; height: 7%; border:1px solid white; margin-left: 15%;}
+.moody .read a{color: white; text-decoration: none; padding: 5px 40px; font-size: 23px; display: block;}
 
 
 
