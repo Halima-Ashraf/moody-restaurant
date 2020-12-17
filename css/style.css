@@ -13,5 +13,12 @@ body{margin:0px; padding:0px;}
 .moody .read{margin-top: 60%;background-color: #ffba00;  width: 30%; height: 7%; border:1px solid white; margin-left: 15%;}
 .moody .read a{color: white; text-decoration: none; padding: 5px 40px; font-size: 23px; display: block;}
 
+.new{height: 400px; background-color: #242424;}
+.new h3{color: white; margin-left: 25%; padding-top: 15%;}
+.new .new_2{background-color: #ffba00; height: 40%; width: 165%;}
+.new .new_2 p{color: white; margin-top: 5%; font-size: 25px; margin-left: 22%;}
+
+.new img{width: auto; float: right; margin-right: -120px; height: 100%; padding-top: 10%; margin-bottom: -55%; overflow: hidden;}
+
 
 
