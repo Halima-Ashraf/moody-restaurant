@@ -15,10 +15,10 @@ body{margin:0px; padding:0px;}
 
 .new{height: 400px; background-color: #242424;}
 .new h3{color: white; margin-left: 25%; padding-top: 15%;}
-.new .new_2{background-color: #ffba00; height: 40%; width: 165%;}
+.new h5{color: white; writing-mode: vertical-rl; text-orientation:upright;}
+.new .new_2{background-color: #ffba00; height: 40%; width: 150%; z-index: 10; position: relative; margin-top: -48%;}
 .new .new_2 p{color: white; margin-top: 5%; font-size: 25px; margin-left: 22%;}
 
-.new img{width: auto; float: right; margin-right: -120px; height: 100%; padding-top: 10%; margin-bottom: -55%; overflow: hidden;}
-
-
-
+.new img{float: right; margin-right: -120px; height: 100%; width: 100%; padding-top: 10%; margin-bottom: -55%;}
+.new_format{height: 250px;  margin-left: 5%; margin-top: 10%;}
+.new_format h4{color: #ffba00; padding-top: 10%; font-weight: bold;}
